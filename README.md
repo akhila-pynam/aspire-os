@@ -57,8 +57,8 @@ Welcome to the public test edition of **AspireOS**! This repository contains the
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/akhila-pynam/AspireOS.git
-cd AspireOS
+git clone https://github.com/akhila-pynam/aspire-os.git
+cd aspire-os
 ```
 
 ### 2. Install dependencies
